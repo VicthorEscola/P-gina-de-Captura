@@ -1,2 +1,2 @@
-# P-gina-de-Captura
+#Página de Captura
 Pagina de captura ideal para vendas de cursos e afins
